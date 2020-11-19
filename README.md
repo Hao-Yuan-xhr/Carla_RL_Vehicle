@@ -7,7 +7,7 @@ Map: Town 01
 
 Main structure: Nature DQN
 
-language: Python 3.5
+Language: Python 3.5
 
 Task describe:
 
