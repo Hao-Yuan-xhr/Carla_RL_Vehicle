@@ -5,7 +5,7 @@ Environment describe:
 
 	Map: Town 01
 
-	Main structure: Nature DQN
+	Main structure: Nature DQN / Double DQN
 
 	Language: Python 3.5
 
